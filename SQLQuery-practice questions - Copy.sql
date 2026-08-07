@@ -54,7 +54,7 @@ where not exists (select 1
 
 --q3. Show patients who have more than 1 appointment
 
---👉 Use subquery + COUNT + GROUP BY
+-- Use subquery + COUNT + GROUP BY
 select*
 from patients
 where patient_id in(
