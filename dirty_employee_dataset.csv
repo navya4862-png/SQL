@@ -1,0 +1,41 @@
+Employee_ID,Employee_Name,Gender,Department,Job_Role,City,Email,Phone,Salary,Joining_Date,Experience,Performance,Status
+EMP001,  Ravi Kumar ,Male,IT,Developer, Hyderabad ,ravi@gmail.com,9876543210,50000,2023-05-10,3,Good,Active
+EMP002,Priya Sharma,female,it,Tester,HYD,priya@gmail,+91-9876543211,₹55000,10/06/2022,4 years,good,active
+EMP003,Arun Reddy,M,Information Technology,Developer,hyderabad,arun.reddy@gmail.com,98765 43212,60000,2022/07/15,5,Excellent,A
+EMP004,Sneha Rao,Female,HR,HR Executive, Chennai,sneha@gmail.com,9876543213,45000,15-08-2023,2,Average,Active
+EMP005,Kiran Kumar,male,hr,Recruiter,CHENNAI,,9876543214,"45,000",2023-09-01,2 years,average,active
+EMP006,Meena Das,F,Finance,Accountant,Bangalore,meena.das@gmail.com,9876543215,55000,01/10/2021,6,Good,Active
+EMP007,  John Peter,Male,finance,Senior Accountant, Bengaluru ,john@gmail.com,+91 9876543216,"₹65,000",2021/11/20,6 years,GOOD,A
+EMP008,Lakshmi Devi,female,Sales,Sales Executive,Hyderabad,lakshmi@gmail.com,9876543217,40000,2024-01-05,1,Poor,Inactive
+EMP009,Rahul Verma,M,sales,Sales Manager,HYD,rahul.verma@gmail.com,,70000,05/02/2020,8,Excellent,Active
+EMP010,Anita Singh,Female,Marketing,Marketing Executive,Delhi,anita@gmail.com,9876543219,48000,2023-03-12,3,Good,active
+EMP011,Vijay Rao,Male,marketing,Digital Marketer, Delhi ,vijay@gmail,9876543220,"52,000",12-04-2022,4 years,good,A
+EMP012,Pooja Nair,F,Finance,Analyst,Bangalore,pooja.nair@gmail.com,9876543221,60000,2022-05-18,,Excellent,Active
+EMP013,Ravi Kumar,Male,IT,Developer,Hyderabad,ravi@gmail.com,9876543210,50000,2023-05-10,3,Good,Active
+EMP014,Suresh Babu,M,IT,Support Engineer,Pune,suresh@gmail.com,9876543223,38000,2024/02/20,1,Average,Active
+EMP015, Divya Patel ,female,it,Developer,PUNE,divya.patel@gmail.com,9876543224,58000,20/03/2022,4 years,Excellent,active
+EMP016,Manoj Shah,Male,HR,HR Manager,Mumbai,manoj@gmail.com,9876543225,75000,2020-06-15,8,Good,Active
+EMP017,Neha Joshi,F,hr,HR Executive, MUMBAI ,neha@gmail.com,9876543226,42000,15/07/2023,2,good,A
+EMP018,Ramesh Gupta,male,Finance,Financial Analyst,Delhi,ramesh@gmail.com,9876543227,62000,2021-08-25,5 years,Excellent,Active
+EMP019,Asha Rao,Female, Finance ,Accountant,Delhi,asha@gmail,9876543228,50000,2022-09-10,4,Good,active
+EMP020,Nikhil Jain,M,Sales,Sales Executive,Mumbai,nikhil@gmail.com,9876543229,42000,2024-01-12,1,Poor,Inactive
+EMP021,Farhan Ali,Male,sales,Sales Executive,MUMBAI,farhan@gmail.com,9876543230,43000,2023/02/14,2 years,Average,Active
+EMP022,Kavya Reddy,F,Marketing,SEO Specialist,Hyderabad,kavya@gmail.com,9876543231,51000,2022-11-01,4,Good,Active
+EMP023,Rohit Mehta,Male,Marketing,Marketing Manager,Pune,rohit@gmail.com,9876543232,80000,2020/12/05,8 years,Excellent,A
+EMP024,Swathi Rao,Female,IT,Developer,Bangalore,swathi@gmail.com,9876543233,59000,2022-01-20,5,Good,Active
+EMP025,Ajay Kumar,M,it,Developer,Bengaluru,ajay@gmail.com,9876543234,59000,2022/01/20,5 years,good,active
+EMP026,Nandini Roy,female,HR,Recruiter,Kolkata,nandini@gmail.com,9876543235,46000,2023-04-11,3,Average,Active
+EMP027,  Imran Khan,Male,Finance,Analyst,Kolkata,imran@gmail.com,9876543236,57000,2022-06-19,4,Good,Active
+EMP028,Geetha R,F,finance,Accountant,Chennai,geetha@gmail.com,9876543237,-,2021-07-21,5,,Active
+EMP029,Vivek Singh,M,Sales,Sales Manager,Delhi,vivek@gmail.com,9876543238,75000,2020-10-10,8,Excellent,Active
+EMP030,Anjali Kapoor,Female,marketing,Content Writer,Delhi,anjali@gmail.com,9876543239,47000,2023-08-09,2,good,active
+EMP031,Deepak Yadav,Male,IT,Developer,Noida,deepak@gmail.com,9876543240,65000,2019-02-18,10,Excellent,Active
+EMP032,Pallavi Singh,F,IT,Tester,Noida,pallavi@gmail.com,9876543241,48000,2023-05-22,3,Good,Active
+EMP033,Harish Kumar,male,it,Developer,NOIDA,harish@gmail,9876543242,62000,2022-03-15,4 years,Good,A
+EMP034,Sanjana Das,Female,HR,HR Executive,Kolkata,sanjana@gmail.com,9876543243,44000,2023-06-07,3,,Active
+EMP035,Mohan Rao,Male,Finance,Accountant,Hyderabad,mohan@gmail.com,9876543244,53000,2022-10-12,4,Good,Active
+EMP036,Rekha Devi,F,Finance,Analyst, Hyderabad,rekha@gmail.com,9876543245,61000,2021-09-18,5 years,Excellent,active
+EMP037,Tarun Jain,M,Sales,Sales Executive,Pune,tarun@gmail.com,9876543246,41000,2024-02-01,1,Poor,Inactive
+EMP038,Shilpa Nair,female,Marketing,Digital Marketer,Bangalore ,shilpa@gmail.com,9876543247,54000,2022-12-20,4,Good,Active
+EMP039,Ganesh B,Male,marketing,Marketing Executive,Bengaluru,ganesh@gmail.com,9876543248,49000,2023-01-25,3 years,good,A
+EMP040,Madhavi Rao,Female,IT,Developer,Chennai,madhavi@gmail.com,9876543249,58000,2022-04-16,4,Excellent,ACTIVE
